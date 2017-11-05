@@ -9,4 +9,4 @@ Each row in the file contains the coordinates of a single point.
 
 The source code file is: KmeansGMM.py
 
-The discussion of implementation and library function please see the Kmeans_and_GMMreport.pdf.
+The detail discussion of algorithm, implementation and library function please see the Kmeans_and_GMMreport.pdf.
